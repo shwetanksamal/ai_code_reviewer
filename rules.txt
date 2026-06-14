@@ -1,0 +1,3 @@
+Guideline 1: Always check for secret keys, API tokens, or passwords hardcoded in a script. Security credentials must be hidden.
+Guideline 2: Functions should have comments explaining what they do.
+Guideline 3: Avoid using infinite loops like 'while True' without a clear break statement, as it can freeze the system.
